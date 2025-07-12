@@ -1,5 +1,5 @@
 # Исторические погодные метрики городов РФ с 1976г по 2024г.
-Парсинг: 
+Парсинг:  
 [ipynb](https://github.com/Ekaterina-Smurova/pet-projects/blob/main/meteo/cities.ipynb)  
 [nbviewer](https://nbviewer.org/github/Ekaterina-Smurova/pet-projects/blob/main/meteo/cities.ipynb)  
 
